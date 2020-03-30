@@ -21,9 +21,9 @@ class Config
       'external_productdata'        => 'gamedata/productdata.txt',
       'external_figuredata'         => 'gamedata/furnidata.xml?v=5',
       'external_base'               => 'gordon/PRODUCTION-201904011212-888653470/',
-      'client_swf'                  => 'Cosmic.swf',
+      'client_swf'                  => '.swf',
       'client_radio'                => 'https://21253.live.streamtheworld.com/WEB16_AAC.aac',
-      'client_host'                 => '151.80.54.177',
+      'client_host'                 => '5.196.111.152',
       'client_port'                 => 3000
     );
   
@@ -34,11 +34,11 @@ class Config
      */
 
     const site = array(
-      'domain'      => 'cosmicproject.online',
-      'cpath'       => 'https://images.cosmicproject.online/library',
+      'domain'      => 'jemscity.fr',
+      'cpath'       => 'https://jemscity.fr/library',
       'fpath'       => 'https://habbo.com.br/habbo-imaging',
       'shortname'   => 'Cosmic',
-      'sitename'    => 'Cosmic'
+      'sitename'    => 'Jemscity'
     );
       
     const language = 'EN';
